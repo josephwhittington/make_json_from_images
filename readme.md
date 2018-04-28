@@ -16,5 +16,5 @@ python make_json.py with valid flag arguments
 -This is the name of the property that will have the value of the image names
 2. ```--output```
 -Specify the name of the json file to generate
-3.```additional```
+3. ```additional```
 -Takes in comma separated values and uses those arguments as additional fields in the json file with empty values, don't use spaces because that would be separate arguments
